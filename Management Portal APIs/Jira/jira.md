@@ -1,6 +1,6 @@
-# **Jira API Documantion**
+# **Jira API Documentation**
 
-This documantion writed by Emre Unal for Londonist Global Management Portal.
+This documentation writed by Emre Unal for Londonist Global Management Portal.
 
 ## **Authentication and authorization**
 
