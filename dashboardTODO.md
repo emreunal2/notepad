@@ -7,8 +7,8 @@
 - [X] Create Project Git and bitbucket
 - [X] Create .venv 
 - [X] Create Django project
-- [ ] Settings and Database settings
-- [ ] Create dashboard URLs and views
+- [X] Settings and Database settings
+- [X] Create dashboard URLs and views
 - [ ] Create queries.py
    - [ ] Total queries
    - [ ] Turkey Branch
