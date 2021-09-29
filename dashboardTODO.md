@@ -9,6 +9,7 @@
 - [X] Create Django project
 - [X] Settings and Database settings
 - [X] Create dashboard URLs and views
+- [ ] Create index page
 - [ ] Create queries.py
    - [ ] Total queries
    - [ ] Turkey Branch
