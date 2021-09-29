@@ -9,13 +9,13 @@
 - [X] Create Django project
 - [X] Settings and Database settings
 - [X] Create dashboard URLs and views
-- [ ] Create index page
-- [ ] Create queries.py
-   - [ ] Total queries
+- [X] Create index page
+- [X] Create queries.py
+   - [X] Total queries
    - [ ] Turkey Branch
    - [ ] China Branch
    - [ ] UK Branch
-   - [ ] Sales by person
+   - [X] Sales by person
    - [ ] Total Availability
    - [ ] Total Placements
    - [ ] Availability by Residences
