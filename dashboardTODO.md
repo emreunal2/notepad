@@ -20,5 +20,11 @@
    - [ ] Availability by Residences
    - [ ] Availability by Provider
 - [ ] Create queries.py URLS and views
-- [ ] Include URLS to Core
+- [X] Include URLS to Core
 - [ ] Return queries as JSON in view
+- [ ] Documentation
+
+**queries.py cycle**  
+- [ ] create def for every json response
+- [ ] create querys and return result
+- [ ] create url and test it from postman 
