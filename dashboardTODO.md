@@ -15,7 +15,8 @@
    - [ ] Turkey Branch
    - [ ] China Branch
    - [ ] UK Branch
-   - [X] Sales by person
+   - [X] Sales by person by week
+   - [ ] Sales by person by month
    - [X] Total Availability
    - [ ] Total Placements
    - [X] Availability by Residences
