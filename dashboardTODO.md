@@ -16,10 +16,10 @@
    - [ ] China Branch
    - [ ] UK Branch
    - [X] Sales by person
-   - [ ] Total Availability
+   - [X] Total Availability
    - [ ] Total Placements
-   - [ ] Availability by Residences
-   - [ ] Availability by Provider
+   - [X] Availability by Residences
+   - [X] Availability by Provider
 - [ ] Create queries.py URLS and views
 - [X] Include URLS to Core
 - [ ] Return queries as JSON in view
