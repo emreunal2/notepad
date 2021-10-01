@@ -12,19 +12,19 @@
 - [X] Create index page
 - [X] Create queries.py
    - [X] Total queries
-   - [ ] Turkey Branch
-   - [ ] China Branch
-   - [ ] UK Branch
+   - [X] Turkey Branch
+   - [X] China Branch
+   - [X] UK Branch
    - [X] Sales by person by week
-   - [ ] Sales by person by month
+   - [X] Sales by person by month
    - [X] Total Availability
    - [ ] Total Placements
    - [X] Availability by Residences
    - [X] Availability by Provider
-- [ ] Create queries.py URLS and views
+- [X] Create queries.py URLS and views
 - [X] Include URLS to Core
-- [ ] Return queries as JSON in view
-- [ ] Documentation
+- [X] Return queries as JSON in view
+- [X] Documentation
 
 **queries.py cycle**  
 - [ ] create def for every json response
