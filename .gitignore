@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/csharp,visualstudiocode,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=csharp,visualstudiocode,windows
 
@@ -423,3 +424,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,visualstudiocode,windows
+=======
+>>>>>>> f237c82485438714db5c2ba535d3ac8a56c4075c
