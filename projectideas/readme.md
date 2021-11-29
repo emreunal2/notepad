@@ -15,3 +15,5 @@ My self study projects that i think in the shower most of time.
   * C# 
   * Self study for C#, AI, OOP, Unity 
   * Every Class will have 2 skills and one ultimate skill and ai will select best skill for situation 
+
+### 4. Pokemon Fire Red Clone
